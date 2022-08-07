@@ -1,1 +1,1 @@
-Texto colocado na Maintenance. Isso aqui foi mergeado a partir de uma branch Bugfix.
+Texto colocado para fazer dar um conflito que não existia antes na Maintenance.
